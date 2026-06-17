@@ -1,0 +1,12 @@
+
+> architect-landing@0.1.0 dev
+> next dev
+
+⚠ Port 3000 is in use by process 63372, using available port 3001 instead.
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://172.26.0.1:3001
+✓ Ready in 824ms
+
+ GET / 200 in 1679ms (next.js: 1490ms, application-code: 189ms)
+[?25h
